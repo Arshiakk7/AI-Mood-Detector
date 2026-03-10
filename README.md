@@ -8,7 +8,7 @@ Users can enter any text and instantly see the emotional tone along with a senti
 ## Features
 - Detects mood from user text
 - Shows sentiment polarity score
--**Classifies mood into:**
+**Classifies mood into:**
      - Happy
      - Neutral
      - Sad / Angry
@@ -17,7 +17,7 @@ Users can enter any text and instantly see the emotional tone along with a senti
 - Sentiment trend visualization using matplotlib
 - Tracks history of sentiment scores
 
--**Technologies Used:**
+**Technologies Used:**
  - Python
  - Tkinter – GUI interface
  - TextBlob – Natural Language Processing
@@ -59,8 +59,8 @@ The sentiment score is stored and can be visualized using the Show Chart button.
 I am very excited about learning AI today!
 
 ## Output:
- Mood: Happy
- Score: 0.75
+- Mood: Happy
+- Score: 0.75
 ## Future Improvements
 - Add real-time sentiment detection
 - Add emoji mood visualization
