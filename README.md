@@ -25,10 +25,10 @@ Users can enter any text and instantly see the emotional tone along with a senti
  - Matplotlib – Sentiment trend chart
 
  ## Project Structure
- AI-Mood-Detector
- │
- ├── mood_detector.py
- ├── README.md
+- AI-Mood-Detector
+- │
+- ├── mood_detector.py
+- ├── README.md
 
 
 ## How to Run the Project
