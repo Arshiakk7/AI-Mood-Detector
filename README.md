@@ -36,8 +36,6 @@ Users can enter any text and instantly see the emotional tone along with a senti
 - Run the Python file:
            python mood_detector.py
 
-- The AI Sentiment Dashboard GUI will open.
-
 ## How It Works
 
 - User enters text in the input box.
@@ -53,20 +51,6 @@ Users can enter any text and instantly see the emotional tone along with a senti
 
 The sentiment score is stored and can be visualized using the Show Chart button.
 
-## Example
-
-**Input:**
-I am very excited about learning AI today!
-
-## Output:
-- Mood: Happy
-- Score: 0.75
-## Future Improvements
-- Add real-time sentiment detection
-- Add emoji mood visualization
-- Support voice input
-- Export sentiment history as CSV
-- onvert to web app using Streamlit
 
 ## Author
 Created by Arshiakk7
